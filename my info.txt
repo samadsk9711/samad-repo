@@ -2,6 +2,7 @@ class main
 {
 public static void main(String[] args)
 {
+// shaik samad file
 System.out.println("hi this is samad");
 System.out.println("thi sis my first job");
 }
